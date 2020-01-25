@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "https://www.schuermann.eu"
 title = "Dominik Schürmann"
 
 theme = "hugo-coder"
@@ -98,23 +98,22 @@ disqusShortname = ""
 
         [languages.en.menu]
 
-
             [[languages.en.menu.main]]
             name = "About"
-            weight = 3
+            weight = 1
             url = "about/"
 
             [[languages.en.menu.main]]
             name = "Publications"
-            weight = 3
+            weight = 2
             url = "paper/"
 
             [[languages.en.menu.main]]
             name = "Blog"
-            weight = 4
+            weight = 3
             url = "posts/"
 
             [[languages.en.menu.main]]
             name = "Contact"
-            weight = 5
+            weight = 10
             url = "contact/"
