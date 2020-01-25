@@ -3,5 +3,5 @@ title = "Impressum"
 slug = "impressum"
 +++
 
-e-mail:
-dominik (at) schuermann (dot) eu
+Email: dominik@schuermann.eu
+

@@ -18,7 +18,7 @@ For consulting services contact me on [cotech.de](https://cotech.de/services/).
 
 # Personal Contact
 
-dominik@schuermann.eu
+Email: dominik@schuermann.eu
 
 I support end-to-end encrypted emails.  
 Keys are automatically exchanged via [Autocrypt](https://autocrypt.org) and available via [WKD](https://wiki.gnupg.org/WKD).  
