@@ -20,8 +20,10 @@ For consulting services contact me on [cotech.de](https://cotech.de/services/).
 
 dominik@schuermann.eu
 
-* [OpenPGP Key](https://keys.openpgp.org/search?q=dominik%40schuermann.eu) ~ For encrypted email
-* [OpenPGP Git Signing Key](https://keys.openpgp.org/search?q=9E287AEA392107A5BDEE15176411A09443B83D62) (not for communication) 
+I support end-to-end encrypted emails.  
+Keys are automatically exchanged via [Autocrypt](https://autocrypt.org) and available via [WKD](https://wiki.gnupg.org/WKD).  
+Alternatively, you can [manually download the key](https://keys.openpgp.org/search?q=dominik%40schuermann.eu).  
+You can also download my [OpenPGP Git Signing Key](https://keys.openpgp.org/search?q=9E287AEA392107A5BDEE15176411A09443B83D62) (not for communication).
 
 
 
