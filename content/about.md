@@ -2,7 +2,8 @@
 title = "About"
 slug = "about"
 aliases = [
-    "/android"
+    "/android",
+    "/android-apps"
 ]
 +++
 
