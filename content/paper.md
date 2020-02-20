@@ -18,7 +18,7 @@ My thesis is an [article thesis](https://en.wikipedia.org/wiki/Collection_of_art
 
 # Publications
 
-*   Arne Brüsch, Ngu Nguyen, Dominik Schürmann, Stephan Sigg and Lars Wolf: _[Security Properties of Gait for Mobile Device Pairing](https://www.ibr.cs.tu-bs.de/papers/schuermann-tmc2019.pdf)_, in _IEEE Transactions on Mobile Computing_, pages 1-1, 2019
+*   Arne Brüsch, Ngu Nguyen, Dominik Schürmann, Stephan Sigg and Lars Wolf: _[Security Properties of Gait for Mobile Device Pairing](https://www.ibr.cs.tu-bs.de/papers/schuermann-tmc2019.pdf)_, in IEEE Transactions on Mobile Computing, Vol. 19, No. 3, pages 697-710, March 2020
 *   Dominik Schürmann, Georg von Zengen, Marvin Priedigkeit and Lars Wolf: _[uDTNSec: A security layer with lightweight certificates for Disruption-Tolerant Networks on microcontrollers](https://www.ibr.cs.tu-bs.de/papers/schuermann-annals-of-telecommunications2018.pdf)_, in _Annals of Telecommunications_, Vol. 73, No. 9, pages 589-600, October 2018
 *   Dominik Schürmann, Arne Brüsch, Ngu Nguyen, Stephan Sigg and Lars Wolf: _[Moves like Jagger: Exploiting variations in instantaneous gait for spontaneous device pairing](https://www.ibr.cs.tu-bs.de/papers/schuermann-bandana-pmc.pdf)_, in _Pervasive and Mobile Computing_, Vol. 47, pages 1 - 12, April 2018
 *   Ngu Nguyen, Caglar Yuce Kaya, Dominik Schürmann, Arne Brüsch, Stephan Sigg and Lars Wolf: _[Demo of BANDANA - Body Area Network Device-to-device Authentication Using Natural gAit](https://www.ibr.cs.tu-bs.de/papers/schuermann-bandana-demo.pdf)_, March 2018
