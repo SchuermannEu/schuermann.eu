@@ -29,11 +29,12 @@ They are based on the [Cypherpunk's Manifesto](http://www.activism.net/cypherpun
 ## Maintaining
 
 * [OpenKeychain](https://www.openkeychain.org)
+* [Hardware Security SDK](https://hwsecurity.dev/)
+
 * [Birthday Calendar](https://github.com/SufficientlySecure/birthday-calendar)
-* [Offline Calendar](https://github.com/SufficientlySecure/offline-calendar)
 * [Calendar Import/Export](https://github.com/SufficientlySecure/calendar-import-export)
 * [Document Viewer](https://github.com/SufficientlySecure/document-viewer)
-* [Hardware Security SDK](https://hwsecurity.dev/)
+* [Offline Calendar](https://github.com/SufficientlySecure/offline-calendar) (now part of Etar calendar)
 
 ## Contributor
 
