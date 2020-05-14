@@ -24,7 +24,8 @@ disqusShortname = ""
     keywords = "security,android"
     info = "Founder @ COTECH // Dr.-Ing. in Network Security // Security Researcher // Android Developer"
     avatarurl = "images/avatar.jpg"
-    footercontent = "<small><a href=\"/impressum\">Impressum</a></small>"
+    #footercontent = "<small><a href=\"/impressum\">Impressum</a></small>"
+    footercontent = ""
 
     dateformat = "January 2, 2006"
 

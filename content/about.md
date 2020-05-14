@@ -24,17 +24,24 @@ They are based on the [Cypherpunk's Manifesto](http://www.activism.net/cypherpun
 
 * [Autocrypt](https://autocrypt.org)
 
-# Android Ecosystem
+# Android Apps
 
-## Maintaining
+You can [support my work via PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=android%40schuermann.eu&lc=US&item_name=Android+Donation&no_note=0&no_shipping=1&currency_code=EUR).
+
+## Actively Maintained
 
 * [OpenKeychain](https://www.openkeychain.org)
 * [Hardware Security SDK](https://hwsecurity.dev/)
 
+## Other Apps
+
+I am currently working on getting the features of Birthday Calendar, Calendar Import/Export and Offline Calendar into the Etar Calendar.
+Then I will probably deprecate the old apps.
+
 * [Birthday Calendar](https://github.com/SufficientlySecure/birthday-calendar)
 * [Calendar Import/Export](https://github.com/SufficientlySecure/calendar-import-export)
-* [Document Viewer](https://github.com/SufficientlySecure/document-viewer)
 * [Offline Calendar](https://github.com/SufficientlySecure/offline-calendar) (now part of Etar calendar)
+* [Document Viewer](https://github.com/SufficientlySecure/document-viewer)
 
 ## Contributor
 

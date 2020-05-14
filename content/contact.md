@@ -3,15 +3,13 @@ title = "Contact"
 slug = "contact"
 +++
 
-# Android Support/Questions
-Android support requests are only answered when sent to our public mailing list:
+# Android Support
+My apps are free, without ads.
+I don't really make money from them.
+Thus, I cannot provide support in my free time.
+If you have any issues, please fill them on Github.
 
-\| [privacyapps@lists.riseup.net](mailto:privacyapps@lists.riseup.net) \| [Subscribe](https://lists.riseup.net/www/subscribe/privacyapps) \| [Archive](https://lists.riseup.net/www/arc/privacyapps) \|
-
-For OpenKeychain discussions write to this one:
-
-\| [openkeychain@lists.riseup.net](mailto:openkeychain@lists.riseup.net) \| [Subscribe](https://lists.riseup.net/www/subscribe/openkeychain) \| [Archive](https://lists.riseup.net/www/arc/openkeychain) \|
-
+If you like to pay me for supporting you, contact me on [cotech.de](https://cotech.de/services/).
 
 # Consulting
 For consulting services contact me on [cotech.de](https://cotech.de/services/).
