@@ -3,20 +3,16 @@ title = "Publications"
 slug = "paper"
 +++
 
-My research interests focus on these topics:
+My publications revolve around network security.
+Usually, I construct systems using applied cryptography and examine trade-offs between asynchronous communication, usability and their privacy aspects.
 
-*   Contextual Security for Device-to-Device Pairings based on Human Gait, Ambient Audio
-*   End-to-End Encrypted Communication: API for NFC Cryptography, ZRTP Analysis, Usability of Key-Fingerprints
-*   Security in Delay-Tolerant Networks: Forward Secure DTNs, µDTNSec, RAIM: Redundant Array of Motes
-*   Trustworthy Transportation Systems: Cooperative Charging, Trustworthy Parking Communities
-
-# Thesis
+### Thesis
 
 My thesis is an [article thesis](https://en.wikipedia.org/wiki/Collection_of_articles), not a traditional monograph, i.e., it is a collection of selected research papers with an introductory section consisting of summary chapters.
 
 *   Dominik Schürmann: _[Establishing Trust in Heterogeneous Networks](https://www.ibr.cs.tu-bs.de/users/schuerm/dissertation-schuermann.pdf)_, _Kumulative Dissertation, Technische Universität Carolo-Wilhelmina zu Braunschweig_, April 2018
 
-# Publications
+### Publications
 
 *   Arne Brüsch, Ngu Nguyen, Dominik Schürmann, Stephan Sigg and Lars Wolf: _[Security Properties of Gait for Mobile Device Pairing](https://www.ibr.cs.tu-bs.de/papers/schuermann-tmc2019.pdf)_, in IEEE Transactions on Mobile Computing, Vol. 19, No. 3, pages 697-710, March 2020
 *   Dominik Schürmann, Georg von Zengen, Marvin Priedigkeit and Lars Wolf: _[uDTNSec: A security layer with lightweight certificates for Disruption-Tolerant Networks on microcontrollers](https://www.ibr.cs.tu-bs.de/papers/schuermann-annals-of-telecommunications2018.pdf)_, in _Annals of Telecommunications_, Vol. 73, No. 9, pages 589-600, October 2018
