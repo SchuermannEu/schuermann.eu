@@ -39,14 +39,17 @@
   from = "https://www.sufficientlysecure.org/*"
   to = "https://www.schuermann.eu/:splat"
   status = 301
+  force = true
 
 # custom domain sufficientlysecure.org
 [[redirects]]
   from = "https://sufficientlysecure.org"
   to = "https://www.schuermann.eu"
   status = 301
+  force = true
 
 [[redirects]]
   from = "https://www.sufficientlysecure.org"
   to = "https://www.schuermann.eu"
   status = 301
+  force = true
