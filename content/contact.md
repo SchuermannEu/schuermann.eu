@@ -9,11 +9,6 @@ I don't really make money from them.
 Thus, I cannot provide support in my free time.
 If you have any issues, please fill them on Github.
 
-If you like to pay me for supporting you, contact me on [cotech.de](https://www.cotech.de/en/labs/?pk_campaign=schuermann.eu).
-
-# Consulting
-For consulting services contact me on [cotech.de](https://www.cotech.de/en/labs/?pk_campaign=schuermann.eu).
-
 # Personal Contact
 
 Email: dominik@schuermann.eu
