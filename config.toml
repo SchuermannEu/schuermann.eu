@@ -60,25 +60,25 @@ disqusShortname = ""
   tag = "tags"
 
 [[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 1
+    url = "https://www.linkedin.com/in/dominik-schuermann/"
+[[params.social]]
     name = "Github"
     icon = "fab fa-github"
-    weight = 1
+    weight = 2
     url = "https://github.com/dschuermann"
 [[params.social]]
     name = "Gitlab"
     icon = "fab fa-gitlab"
-    weight = 2
-    url = "https://gitlab.com/dschuermann"
-[[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter"
     weight = 3
-    url = "https://twitter.com/domschuermann"
-[[params.social]]
-    name = "LinkedIn"
-    icon = "fab fa-linkedin"
-    weight = 4
-    url = "https://www.linkedin.com/in/dominik-schuermann/"
+    url = "https://gitlab.com/dschuermann"
+#[[params.social]]
+#    name = "Twitter"
+#    icon = "fab fa-twitter"
+#    weight = 3
+#    url = "https://twitter.com/domschuermann"
 # [[params.social]]
 #     name = "Medium"
 #     icon = "fab fa-medium"
