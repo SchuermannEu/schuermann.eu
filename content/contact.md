@@ -12,4 +12,3 @@ Email: dominik@schuermann.eu
 
 I support end-to-end encrypted emails.
 You can download my [OpenPGP email encryption key](https://keys.openpgp.org/search?q=dominik%40schuermann.eu).
-You can also download my [OpenPGP git signing key](https://keys.openpgp.org/search?q=9E287AEA392107A5BDEE15176411A09443B83D62) (not for communication).
