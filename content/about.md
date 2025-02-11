@@ -32,6 +32,7 @@ I published over [15 papers on international conferences and journals]({{< ref "
 
 # Vulnerabilities
 
+* [Flinkster Hack](https://www.heylogin.com/en/webinar/wie-ich-db-connect-gehackt-habe-und-warum-sie-einen-vdp-brauchen)
 * [CVE-2016-2425 - Surreptitious sharing on Android]({{< ref "posts/2016-04-04-surreptitious-sharing.md" >}}), 2016  
 Bug in AOSP Mail, GMail, WEB.DE Mail, K-9 Mail, Telegram, Threema, Signal
 * CVE-2016-6271 - Linphone, 2016  
@@ -41,33 +42,21 @@ Google In-App Billing Example
 
 # Android
 
-You can [support my work on Android projects via PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=android%40schuermann.eu&lc=US&item_name=Android+Donation&no_note=0&no_shipping=1&currency_code=EUR).
-
-I actively maintain the following Android projects:
+In the past, I maintained the following Android projects:
 
 * [OpenKeychain](https://www.openkeychain.org)
 * [Hardware Security SDK](https://hwsecurity.dev/)
+* [Birthday Calendar](https://github.com/SufficientlySecure/birthday-calendar)
+* [Calendar Import/Export](https://github.com/SufficientlySecure/calendar-import-export)
+* [Offline Calendar](https://github.com/SufficientlySecure/offline-calendar) (now part of Etar calendar)
+* [Document Viewer](https://github.com/SufficientlySecure/document-viewer)
+* [AdAway](https://adaway.org/)
+* FasterGPS
+* NTPSync
 
-Sometimes I contribute to these projects:
+And contributed to these projects:
 
 * [Etar Calendar](https://github.com/Etar-Group/Etar-Calendar)
 * [F-Droid](https://f-droid.org/)
 * [K-9 Mail](https://k9mail.github.io/)
 
-I am currently working on getting the features of Birthday Calendar, Calendar Import/Export and Offline Calendar into the Etar Calendar.
-Then I will probably deprecate the old apps.
-
-* [Birthday Calendar](https://github.com/SufficientlySecure/birthday-calendar)
-* [Calendar Import/Export](https://github.com/SufficientlySecure/calendar-import-export)
-* [Offline Calendar](https://github.com/SufficientlySecure/offline-calendar) (now part of Etar calendar)
-* [Document Viewer](https://github.com/SufficientlySecure/document-viewer)
-
-I started some apps where I am no longer actively participating in their development:
-
-* FasterGPS
-* NTPSync
-* [AdAway](https://adaway.org/)
-
-# Standards
-
-I sometimes contribute to open standards, such as [Autocrypt](https://autocrypt.org).
